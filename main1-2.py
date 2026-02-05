@@ -49,5 +49,5 @@ def analisar_com_ia(bo: BoletimOcorrencia):
     
     return {
         "relato": bo.relato,
-        "classificacao_ia": response.choices.message.content
+        "classificacao_ia": response.choices[0].message.content
     }
