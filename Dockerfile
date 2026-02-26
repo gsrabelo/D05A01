@@ -17,5 +17,5 @@ COPY main5-1.py main.py
 # 6. Expor a porta 8000
 EXPOSE 8000
 
-# 7. Comando para ligar o servidor quando o container iniciar
+# 7. Comando para ligar o servidor quando o container inicializar
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
