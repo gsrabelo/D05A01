@@ -8,3 +8,5 @@ pypdf
 tiktoken
 ollama
 psutil
+prometheus-fastapi-instrumentator
+structlog
