@@ -19,3 +19,5 @@ EXPOSE 8000
 
 # 7. Comando para ligar o servidor quando o container inicializar
 CMD ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000"]
+
+# docker build -t intellidoc-v1 .
