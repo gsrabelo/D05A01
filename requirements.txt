@@ -10,3 +10,7 @@ ollama
 psutil
 prometheus-fastapi-instrumentator
 structlog
+google-genai
+dotenv
+google.generativeai
+#moondream-station

@@ -1,0 +1,8 @@
+{
+  "relato": "Deixei meu celular em cima da mesa e levaram ele",
+  "delegacia": "PCDF Geral"
+}
+
+{
+  "relato": "Deixei meu celular em cima da mesa e levaram ele"
+}
