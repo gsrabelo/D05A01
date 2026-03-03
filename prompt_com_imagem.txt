@@ -26,9 +26,10 @@ Exemplos:
 "Parcelamento de solo" -> MEIO AMBIENTE
 "Incêndio em vegetação" -> INCÊNDIO
 "Poluição de cursos de água" -> MEIO AMBIENTE
-Responda apenas o encaminhamento e em formato JSON válido, sem texto antes ou depois do JSON.
+Responda o encaminhamento conforme o relato a seguir, em formato JSON válido, sem texto antes ou depois do JSON.
 
 Exemplo de resposta:
 {
     "encaminhamento": "MORTE VIOLENTA"
 }
+

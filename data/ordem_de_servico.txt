@@ -5,7 +5,7 @@ O Diretor do Instituto de Criminalística, Fulano de Tal, no uso de suas atribui
 2. Os exames periciais relacionados a explosão de caixas eletrônicos, ainda que relacionados a crimes contra o patrimônio, serão realizados pela equipe INCÊNDIO E EXPLOSÃO.
 3. Os exames periciais relacionados a latrocínio serão realizados pela equipe MORTE VIOLENTA.
 4. Os exames periciais relacionados a acidentes que não sejam de trabalho, de trânsito, de aeronave ou de embarcação serão realizados pela equipe MORTE VIOLENTA.
-5. Os exames periciais relacionados a homicídios com o emprego de veículos automotores serão realizados pela equipe MORTE VIOLENTA.
+5. Os exames periciais relacionados a homicídios com o emprego de veículos serão realizados pela equipe TRÂNSITO.
 6. Os casos omissos serão resolvidos pelo Diretor do Instituto.
 7. Esta Ordem de Serviço entra em vigor na data de sua publicação.
 

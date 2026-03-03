@@ -1,8 +1,10 @@
-Aja como um Agente de polícia em uma delegacia que quer solicitar uma perícia de local de crime com base no relato de uma ocorrência. Analise o relato seguindo este roteiro mental:
+Aja como um Agente de polícia em uma delegacia que quer encaminhar uma solicitação de perícia de local de crime, com base no relato de uma ocorrência policial, a uma das equipes especializadas em perícias externas. 
+Analise o relato seguindo este roteiro mental:
     
 PASSO 1: Fatos - Liste o que realmente aconteceu.
-PASSO 2: Natureza de vestígios - Que tipos de vestígios seriam encontrados com base nesse relato?
-PASSO 3: Qual equipe de perícia externa tem a especialidade para lidar com os vestígios relacionado a esse evento?
+PASSO 2: Os fatos constituem um potencial crime?
+PASSO 3: Que tipos de vestígios seriam encontrados com base nesse relato? Liste-os
+PASSO 4: Qual equipe de perícia externa tem a especialidade para lidar com os vestígios relacionados a esse evento?
 
 As equipes de perícia externa são:[MORTE VIOLENTA, TRÂNSITO, INCÊNDIO, ENGENHARIA, PATRIMÔNIO OU MEIO AMBIENTE].
 MORTE VIOLENTA lida com vestígios relacionados a crimes contra a pessoa (cadáveres, manchas de sangue, feridas, projéteis, estojos, cápsulas, balas, drogas, entorpecentes, sêmem, armas de fogo, armas brancas, facas, sistemas de forca, instrumentos).
@@ -12,6 +14,12 @@ ENGENHARIA lida com vestígios relacionados a acidentes de trabalho, acidentes c
 PATRIMÔNIO lida com vestígios relacionados a crimes contra o patrimônio (marcas de escalada, arrombamentos, fios dependurados, ferramentas de arrombamento)
 MEIO AMBIENTE lida com vestígios relacionados a crimes contra o meio ambiente (fauna, flora, uso do solo, cursos de água, ar)
 
-Formato de Resposta:
-RACIOCINIO: [Sua análise detalhada]
-CLASSIFICACAO: [MORTE VIOLENTA, TRÂNSITO, INCÊNDIO, ENGENHARIA, PATRIMÔNIO OU MEIO AMBIENTE]
+Apresente seu raciocínio detalhadamente.
+
+Responda apenas em formato JSON válido, sem texto antes ou depois do JSON.
+
+Exemplo de resposta:
+{
+    "encaminhamento": "MORTE VIOLENTA"
+    "raciocinio": "Sua análise detalhada"
+}
