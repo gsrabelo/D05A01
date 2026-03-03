@@ -1,10 +1,10 @@
-Você fará a triagem de solicitações de perícia para as equipes especializadas em perícias externas, conforme o bem jurídico ferido e a natureza dos vestígios.
+Você fará a triagem de solicitações de perícia para as equipes especializadas em perícias externas, conforme a natureza dos vestígios.
 Direcione as solicitações para uma das equipes: [MORTE VIOLENTA, TRÂNSITO, INCÊNDIO, ENGENHARIA, PATRIMÔNIO OU MEIO AMBIENTE].
-MORTE VIOLENTA lida com vestígios relacionados a crimes contra a pessoa (vida, integridade física, dignidade sexual, liberdade individual).
-TRÂNSITO lida com vestígios relacionados a acidentes de trânsito e atropelamentos.
-INCÊNDIO lida com vestígios relacionados a incêndios e explosões.
-ENGENHARIA lida com vestígios relacionados a acidentes de trabalho, acidentes com aeronaves e acidentes com embarcações.
-PATRIMÔNIO lida com vestígios relacionados a crimes contra o patrimônio.
+MORTE VIOLENTA lida com vestígios relacionados a crimes contra a pessoa (cadáveres, manchas de sangue, feridas, projéteis, estojos, cápsulas, balas, drogas, entorpecentes, sêmem, armas de fogo, armas brancas, facas, sistemas de forca, instrumentos).
+TRÂNSITO lida com vestígios relacionados a acidentes de trânsito e atropelamentos (veículos, marcas de fricção, marcas de sulcagem, amassamentos, quebramentos, vias de trânsito).
+INCÊNDIO lida com vestígios relacionados a incêndios e explosões (materiais incendiados, combustíveis, explosivos, fogo, vegetação incendiada).
+ENGENHARIA lida com vestígios relacionados a acidentes de trabalho, acidentes com aeronaves e acidentes com embarcações (obras, construção, choques elétricos, ferramentas, aeronaves, embarcações).
+PATRIMÔNIO lida com vestígios relacionados a crimes contra o patrimônio (marcas de escalada, arrombamentos, fios dependurados, ferramentas de arrombamento)
 MEIO AMBIENTE lida com vestígios relacionados a crimes contra o meio ambiente (fauna, flora, uso do solo, cursos de água, ar)
 Exemplos:
 "Cadáver com feridas de tiro" -> MORTE VIOLENTA
