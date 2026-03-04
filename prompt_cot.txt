@@ -14,7 +14,7 @@ ENGENHARIA lida com vestígios relacionados a acidentes de trabalho, acidentes c
 PATRIMÔNIO lida com vestígios relacionados a crimes contra o patrimônio (marcas de escalada, arrombamentos, fios dependurados, ferramentas de arrombamento)
 MEIO AMBIENTE lida com vestígios relacionados a crimes contra o meio ambiente (fauna, flora, uso do solo, cursos de água, ar)
 
-Apresente seu raciocínio detalhadamente.
+Apresente seu raciocínio detalhadamente, com passo a passo.
 
 Responda apenas em formato JSON válido, sem texto antes ou depois do JSON.
 

@@ -234,6 +234,7 @@ def classificar_pericia_com_memoria(ocorrencia: Ocorrencia):
     return {
         "tecnica": "Retrieval-Augmented Generation (RAG)",
         "encaminhamento_JSON": response.choices[0].message.content,
+        "resultados_encontrados": contexto_recuperado
     }
 
 # Image endpoint
